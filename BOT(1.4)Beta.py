@@ -20,9 +20,9 @@ import _thread
 
 # ==================== Setup ====================
 init(autoreset=True)
-k = "a"     # main key
-k2 = "q"    # password for option 3 (ULTIMATE SMS BOMBER)
-ddos_pass = "d"  # password for DDOS Attack
+k = "AS01"     # main key
+k2 = "BENIjoon"    # password for option 3 (ULTIMATE SMS BOMBER)
+ddos_pass = "STALIN"  # password for DDOS Attack
 LOG_PATH = "requests_log.txt"
 
 # غیرفعال کردن هشدارهای SSL
@@ -561,3 +561,4 @@ if a == k:
 else:
     print(Fore.RED + "SISHTIR BABA")
     input(Fore.YELLOW + "Press Enter to exit...")
+
